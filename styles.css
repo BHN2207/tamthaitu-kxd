@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+  }
+  
+  header {
+    background-color: #ff6347;
+    color: white;
+    padding: 20px;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  .upload-section {
+    margin-top: 30px;
+  }
+  
+  #imagePreview {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border: 2px dashed #ccc;
+    display: inline-block;
+    max-width: 100%;
+  }
+  
+  footer {
+    margin-top: 40px;
+    background-color: #ff6347;
+    color: white;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+  
